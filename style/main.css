@@ -834,6 +834,10 @@ hr {
      color: #b6bf6e;
      background: #817c49; 
     font-size: 26px; }
+  .tile.tile-115 .tile-inner {
+    color: #197992;
+    background: #87aab4;
+    font-size: 26px; }
   .tile.tile-118 .tile-inner {
     color: #11827f;
     background: #87b49f;
@@ -857,10 +861,6 @@ hr {
   .tile.tile-172 .tile-inner {
     color: #4ae8cb;
     background: #9e1a0e; 
-    font-size: 26px; }
-  .tile.tile-228 .tile-inner {
-    color: #197992;
-    background: #87aab4;
     font-size: 26px; }
   .tile.tile-333 .tile-inner {
     color: #ff5c30;
