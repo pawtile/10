@@ -698,6 +698,9 @@ hr {
     color: #105650;
     background: #fcc2c2; }
   .tile.tile-61 .tile-inner {
+    color: #45053f;
+    background: #adff2e; }
+  .tile.tile--61 .tile-inner {
     color: #140d7b;
     background: #bd5959; }
   .tile.tile-62 .tile-inner {
@@ -785,8 +788,8 @@ hr {
     color: #4e0c9a;
     background: #90ffa3; }
   .tile.tile-89 .tile-inner {
-    color: #bab8b8;
-    background: #807b6a; }
+    color: #8c2bff;
+    background: #c6ffa4; }
   .tile.tile-90 .tile-inner {
     color: #5c5268;
     background: #499447; }
