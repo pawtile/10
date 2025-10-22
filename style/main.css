@@ -656,11 +656,11 @@ hr {
     color: #9b5bac;
     background: #aebb67; }
   .tile.tile-48 .tile-inner {
+    color: #ffc500;
+    background: #217400; }
+  .tile.tile-49 .tile-inner {
      color: #17b496;
      background: #856f62; }
-  .tile.tile-49 .tile-inner {
-    color: #f9f6f2;
-    background: #b9c0aa; }
   .tile.tile--49 .tile-inner {
     color: #88a139;
     background: #734e74; }
