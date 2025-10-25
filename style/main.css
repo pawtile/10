@@ -568,12 +568,21 @@ hr {
   .tile.tile-18 .tile-inner {
     color: #b7ab18;
     background: #54478b; }
+  .tile.tile--18 .tile-inner {
+    color: #f9f6f2;
+    background: #a9bedf; }
   .tile.tile-19 .tile-inner {
     color: #c5b669;
     background: #507a63; }
+  .tile.tile--19 .tile-inner {
+    color: #f9f6f2;
+    background: #980ea1; }
   .tile.tile-20 .tile-inner {
     color: #ff5281;
     background: #3c4164; }
+  .tile.tile--20 .tile-inner {
+    color: #f9f6f2;
+    background: #3a590d; }
   .tile.tile-21 .tile-inner {
     color: #f9f6f2;
     background: #bd4e0d; }
@@ -667,6 +676,9 @@ hr {
   .tile.tile-50 .tile-inner {
     color: #a1a996;
     background: #9042b7; }
+  .tile.tile--50 .tile-inner {
+    color: #f0e835;
+    background: #915280; }
   .tile.tile-51 .tile-inner {
     color: #14584a;
     background: #d3946e; }
@@ -688,6 +700,9 @@ hr {
   .tile.tile-57 .tile-inner {
     color: #510382;
     background: #4aca4e; }
+  .tile.tile--57 .tile-inner {
+    color: #b7e76b;
+    background: #937c95; }
   .tile.tile-58 .tile-inner {
     color: #714368;
     background: #53ca99; }
@@ -769,6 +784,9 @@ hr {
   .tile.tile-82 .tile-inner {
     color: #437376;
     background: #ea9292; }
+  .tile.tile--82 .tile-inner {
+     color: #e1cebc;
+     background: #a78669; }
   .tile.tile-83 .tile-inner {
     color: #1a8e83;
     background: #eaae81; }
@@ -910,6 +928,10 @@ hr {
     color: #d1ab03;
     background: #0309d1;
     font-size: 16px; }
+  .tile.tile-8282 .tile-inner {
+     color: #a78669;
+     background: #e1cebc;
+     font-size: 20px; }
   .tile.tile-10000 .tile-inner {
     color: #0309d1;
     background: #d1ab03;
@@ -918,6 +940,14 @@ hr {
     color: #feab95;
     background: #f0fed4;
     font-size: 16px; }
+  .tile.tile-828282 .tile-inner {
+     color: #b9a18b;
+     background: #705843;
+     font-size: 14px; }
+  .tile.tile-82828282 .tile-inner {
+     color: #d6b699;
+     background: #f2e4d7;
+     font-size: 11px; }
   .tile.tile-3434343434 .tile-inner {
     color: #f9f6f2;
     background: #f10c7b;
