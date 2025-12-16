@@ -79,9 +79,11 @@ HTMLActuator.prototype.addTile = function (tile) {
   if (tile.value === 378) inner.textContent = 37;
   if (tile.value === 379) inner.textContent = 37;
   if (tile.value === -18) inner.textContent = 18;
-  if (tile.value === -19) inner.textContent = 19;
   if (tile.value === -20) inner.textContent = 20;
   if (tile.value === -21) inner.textContent = 21;
+  if (tile.value === -25) inner.textContent = 25;
+  if (tile.value === -27) inner.textContent = 27;
+  if (tile.value === -28) inner.textContent = 28;
   if (tile.value === -30) inner.textContent = 30;
   if (tile.value === -31) inner.textContent = 31;
   if (tile.value === -34) inner.textContent = 34;
@@ -91,6 +93,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   if (tile.value === -57) inner.textContent = 57;
   if (tile.value === -61) inner.textContent = 61;
   if (tile.value === -63) inner.textContent = 63;
+  if (tile.value === -70) inner.textContent = 70;
   if (tile.value === -82) inner.textContent = 82;
 
 
