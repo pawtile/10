@@ -95,6 +95,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   if (tile.value === -30) inner.textContent = 30;
   if (tile.value === -31) inner.textContent = 31;
   if (tile.value === -32) inner.textContent = 32;
+  if (tile.value === -33) inner.textContent = "3 3";
   if (tile.value === -34) inner.textContent = 34;
   if (tile.value === -48) inner.textContent = 48;
   if (tile.value === -61) inner.textContent = 61;
