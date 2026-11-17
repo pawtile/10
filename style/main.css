@@ -972,6 +972,10 @@ hr {
     color: #ffd1ba;
     background: #cdafa0;
     font-size: 26px; }
+  .tile.tile-2020 .tile-inner {
+    color: #03008e;
+    background: #fff900;
+    font-size: 20px; }
   .tile.tile-3333 .tile-inner {
     color: #fe8564;
     background: #ddfeb2;
